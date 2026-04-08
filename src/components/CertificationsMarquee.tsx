@@ -1,5 +1,3 @@
-import React from 'react';
-
 export default function CertificationsMarquee() {
   const certs = [
     { src: '/genaiacademy.jpeg', alt: 'Gen AI Academy' },
