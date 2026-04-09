@@ -42,7 +42,7 @@ export default function About() {
           className="text-center relative z-10 max-w-2xl px-4"
         >
           <p className="text-base md:text-xl font-bold leading-relaxed text-white/90 mb-4 tracking-wide font-sans">
-            With over two years of experience learning in public, I specialize in full-stack dev, artificial intelligence, and building scalable software.
+            With experience learning in public, I specialize in full-stack dev, artificial intelligence, and building scalable software.
           </p>
           <p className="text-base md:text-xl font-bold leading-relaxed text-white/90 mb-10 tracking-wide font-sans">
             I love collaborating with brilliant teams that want to stand out and deliver immense impact. Let's create something intelligent together.
