@@ -65,7 +65,7 @@ export default function Skills() {
           </div>
           
           <div className="flex items-end text-sm text-white/50 leading-relaxed lg:pb-8 max-w-sm">
-            <p>2+ years building, shipping, and learning in public. Turning complex ideas into intelligent systems with a focus on impact, design, and efficiency. Passionate about AI solutions and highly scalable architectures.</p>
+            <p> building, shipping, and learning in public. Turning complex ideas into intelligent systems with a focus on impact, design, and efficiency. Passionate about AI solutions and highly scalable architectures.</p>
           </div>
         </div>
       </motion.div>
